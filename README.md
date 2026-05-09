@@ -25,22 +25,7 @@ A responsive and interactive Student Registration Form built using HTML, CSS, No
 
 ---
 
-## 📂 Project Structure
 
-Student-Registration-Form/
-│
-├── node_modules/
-├── public/
-│   └── style.css
-│
-├── views/
-│   └── index.ejs
-│
-├── server.js
-├── package.json
-└── README.md
-
----
 
 ## ⚙️ Installation
 
